@@ -10,7 +10,7 @@ public class Main {
         System.out.print(" a= ");
         int a = sc.nextInt();
         System.out.print( " b = ");
-        int b = sc.nextInt(); //hieloooo what 
+        int b = sc.nextInt(); //hieloooo what yor nmwa
         System.out.println(" a + b = " + ( a+ b ));
         System.out.println(" a - b = " + ( a - b ));
         System.out.println(" a * b = " + ( a * b ));
